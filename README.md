@@ -19,7 +19,7 @@ Mục đích của bài thực hành:
 
 ### Công cụ sử dụng
 
-* Google Colab
+* Google Colab "https://colab.research.google.com/drive/1cxayZnG8WX1Pf1zGCOebMmhA2glblPno?usp=sharing"
 * Python
 * Requests
 * Threading
@@ -61,7 +61,7 @@ Mục đích của bài thực hành:
 
 ### Hình 1. Kết quả Aggregate Report
 
-![Aggregate Report](images/aggregate_report.png)
+![Aggregate Report](1.png)
 
 ---
 
@@ -133,7 +133,7 @@ Tuy nhiên tỷ lệ lỗi rất cao nên khả năng xử lý thực tế chưa
 
 ### 5.1 Biểu đồ phân bố thời gian phản hồi
 
-![Response Time Distribution](images/response_distribution.png)
+![Response Time Distribution](2.png)
 
 Nhận xét:
 
@@ -145,7 +145,7 @@ Nhận xét:
 
 ### 5.2 Biểu đồ Percentile
 
-![Response Time Percentiles](images/response_percentiles.png)
+![Response Time Percentiles](4.png)
 
 Nhận xét:
 
